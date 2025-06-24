@@ -14,9 +14,9 @@
 
 ### 📊 Estatísticas do GitHub
 
-![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrefilipereis794&show_icons=true&theme=github_dark&hide_title=true)
+![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrezz1&show_icons=true&theme=github_dark&hide_title=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefilipereis794&layout=compact&theme=github_dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezz1&layout=compact&theme=github_dark)
 
 ---
 
