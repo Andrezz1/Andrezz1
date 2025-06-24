@@ -8,7 +8,7 @@
 
 ### 🧰 Tecnologias e Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,git,github,linux)
+![My Skills](https://skillicons.dev/icons?i=python,ts,js,html,css,react,nodejs,postgresql,git,github,linux)
 
 ---
 
@@ -30,6 +30,6 @@
 
 ### 📌 Sobre mim
 
-Gosto de colaborar em projetos, aprender novas linguagens e frameworks, e explorar como a tecnologia pode melhorar o mundo à nossa volta. Se estás a trabalhar em algo interessante ou procuras colaboração, envia mensagem!
+Gosto de colaborar em projetos, aprender novas linguagens e frameworks.
 
 
